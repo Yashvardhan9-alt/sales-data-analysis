@@ -92,3 +92,4 @@ This dataset can be used to create:
 - College data analytics projects
 - Interview-ready Excel portfolio
 - Dashboard design practice
+- 
